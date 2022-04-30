@@ -1,0 +1,14 @@
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\bin\Debug\net6.0\SwaggerDocumentation.Domain.deps.json
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\bin\Debug\net6.0\SwaggerDocumentation.Domain.dll
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\bin\Debug\net6.0\SwaggerDocumentation.Domain.pdb
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\bin\Debug\net6.0\SwaggerDocumentation.Domain.xml
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\obj\Debug\net6.0\SwaggerDocumentation.Domain.csproj.AssemblyReference.cache
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\obj\Debug\net6.0\SwaggerDocumentation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\obj\Debug\net6.0\SwaggerDocumentation.Domain.AssemblyInfoInputs.cache
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\obj\Debug\net6.0\SwaggerDocumentation.Domain.AssemblyInfo.cs
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\obj\Debug\net6.0\SwaggerDocumentation.Domain.csproj.CoreCompileInputs.cache
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\obj\Debug\net6.0\SwaggerDocumentation.Domain.dll
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\obj\Debug\net6.0\refint\SwaggerDocumentation.Domain.dll
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\obj\Debug\net6.0\SwaggerDocumentation.Domain.xml
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\obj\Debug\net6.0\SwaggerDocumentation.Domain.pdb
+D:\GitHub\SwaggerDocumentation\src\SwaggerDocumentation.Domain\obj\Debug\net6.0\ref\SwaggerDocumentation.Domain.dll

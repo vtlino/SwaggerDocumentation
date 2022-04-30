@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SwaggerDocumentation.Domain/1.0.0": {
+        "runtime": {
+          "SwaggerDocumentation.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SwaggerDocumentation.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
