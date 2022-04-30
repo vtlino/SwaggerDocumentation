@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/src/.vs/SwaggerDocumentation/v17
+/src/.vs/SwaggerDocumentation/DesignTimeBuild

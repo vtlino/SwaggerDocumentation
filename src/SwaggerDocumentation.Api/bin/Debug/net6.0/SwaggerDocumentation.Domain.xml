@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerDocumentation.Domain</name>
+    </assembly>
+    <members>
+        <member name="P:SwaggerDocumentation.Domain.Request.Body.CustomerRequestBody.Name">
+            <summary>Customer`s name</summary>
+            <example>John Bean</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.Body.CustomerRequestBody.NickName">
+            <summary>Customer`s nickname</summary>
+            <example>Little John</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.Body.CustomerRequestBody.Occupation">
+            <summary>Customer`s occupation</summary>
+            <example>Manager</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.Body.CustomerRequestBody.BirthDate">
+            <summary>Customer`s birth date (yyyy-MM-dd)</summary>
+            <example>2000-01-01</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.Body.CustomerRequestBody.Gender">
+            <summary>Customer`s gender</summary>
+            <example>John Bean</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.Body.CustomerRequestBody.Height">
+            <summary>Customer`s height (in centimeters)</summary>
+            <example>180</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.CustomersQuery.CustomersRequestQuery.Name">
+            <summary>Customer`s name or part of it</summary>
+            <example>John</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.CustomersQuery.CustomersRequestQuery.NickName">
+            <summary>Customer`s nickname or part of it</summary>
+            <example>Little</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.CustomersQuery.CustomersRequestQuery.Height">
+            <summary>Customer`s height (in centimeters)</summary>
+            <example>180</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.CustomersQuery.CustomersRequestQuery.Gender">
+            <summary>Customer`s gender</summary>
+            <example>MASCULINE</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.Pagination.RequestPagination.Page">
+            <summary>Number of the page wanted (first is zero)</summary>
+            <example>0</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.Pagination.RequestPagination.PageSize">
+            <summary>Number of elements by page</summary>
+            <example>1</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Request.Route.CustomerIdRequestRoute.Id">
+            <summary>Customer`s Id in system</summary>
+            <example>68c91192-2d83-4eff-b273-cb55626671a3</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.CustomerGetResponse.Id">
+            <summary>Customer`s Id in application</summary>
+            <example>68c91192-2d83-4eff-b273-cb55626671a3</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.CustomerGetResponse.Name">
+            <summary>Customer`s name</summary>
+            <example>John Bean</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.CustomerGetResponse.NickName">
+            <summary>Customer`s nickname</summary>
+            <example>Little John</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.CustomerGetResponse.Occupation">
+            <summary>Customer`s occupation</summary>
+            <example>Manager</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.CustomerGetResponse.BirthDate">
+            <summary>Customer`s birth date (yyyy-MM-dd)</summary>
+            <example>2000-01-01</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.CustomerGetResponse.Gender">
+            <summary>Customer`s gender</summary>
+            <example>John Bean</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.CustomerGetResponse.Height">
+            <summary>Customer`s height (in centimeters)</summary>
+            <example>180</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.CustomerPostResponse.Id">
+            <summary>Customer`s Id in system</summary>
+            <example>68c91192-2d83-4eff-b273-cb55626671a3</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.CustomersGetResponse.Customers">
+            <summary>List of Customers</summary>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.ErrorResponse.Errors">
+            <summary>List of errors</summary>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.ErrorData.Code">
+            <summary>Error code</summary>
+            <example>EBR000</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.ErrorData.Message">
+            <summary>Error message</summary>
+            <example>Parameter xpto invalid.</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.PaginationResponse.Pagination">
+            <summary>Pagination content</summary>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.PaginationData.TotalCount">
+            <summary>Total number of elements wanted</summary>
+            <example>180</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.PaginationData.PageCurrent">
+            <summary>Page number wanted</summary>
+            <example>1</example>
+        </member>
+        <member name="P:SwaggerDocumentation.Domain.Response.PaginationData.PageSize">
+            <summary>Number of elements in a page</summary>
+            <example>20</example>
+        </member>
+    </members>
+</doc>
